@@ -1,0 +1,6 @@
+{
+  "name": "UAE Finance & Audit Pro",
+  "description": "Multi-client UAE accounting, audit working papers, FTA VAT & Corporate Tax compliance, IFRS reporting, and AI financial consultancy platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
